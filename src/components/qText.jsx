@@ -1,0 +1,6 @@
+const QuestionText = ({props}) => {
+    return {
+
+        
+    }
+}
